@@ -1,0 +1,8 @@
+Student Name: Ali Muhammad
+Department: Engineering
+Average: 85.00
+
+Student Name: Sumeye Karam
+Department: Science
+Average: 78.50
+
